@@ -1,5 +1,5 @@
 
-"# quiz_test" /
-운동 퀴즈 앱 /
-dart, django 사용  /
+"# quiz_test"  
+운동 퀴즈 앱  
+flutter dart, django, heroku 사용
 
